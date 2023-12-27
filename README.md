@@ -1,2 +1,2 @@
-# Netflix-clone
+# Menu
 Menu created using CSS and HTML
